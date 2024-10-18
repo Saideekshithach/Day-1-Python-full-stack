@@ -1,44 +1,9 @@
-Python 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
-
-=========================== RESTART: C:/Users/asus/AppData/Local/Programs/Python/Python311/Variables.py ===========================
-4
-12
-7
-20
-
-=========================== RESTART: C:/Users/asus/AppData/Local/Programs/Python/Python311/Variables.py ===========================
-4
-12
-7
-20
-50
-20
-Deekshi
-India
-
-=========================== RESTART: C:/Users/asus/AppData/Local/Programs/Python/Python311/Variables.py ===========================
-4
-12
-7
-20
-50
-20
-Deekshi
-India
-vja
-hyd
 5a=20
 SyntaxError: invalid decimal literal
 a5=40
 print(a5)
 40
 x123456=100
-print(Z123456)
-Traceback (most recent call last):
-  File "<pyshell#4>", line 1, in <module>
-    print(Z123456)
-NameError: name 'Z123456' is not defined. Did you mean: 'x123456'?
 print(x123456)
 100
 a=4
